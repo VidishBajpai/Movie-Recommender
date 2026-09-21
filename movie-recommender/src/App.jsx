@@ -1,9 +1,9 @@
-import "./style/App.css";
-import MovieCard from "./components/MovieCard";
+// import MovieCard from "./components/MovieCard";
 import Home from "./pages/home";
 import Favourites from "./pages/favourites";
 import { Routes, Route } from "react-router-dom";
 import NavBar from "./components/NavBar";
+import "./style/App.css";
 
 
 function App() {

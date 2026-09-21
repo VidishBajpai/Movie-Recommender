@@ -1,9 +1,9 @@
-import "../style/Moviecard.css"
-
+import "../style/MovieCard.css"
 
 function MovieCard({ movie }) {
   function Like() {
     alert("Added to Favourites");
+    console.log(movie);
   }
 
   return (
@@ -30,3 +30,5 @@ function MovieCard({ movie }) {
 }
 
 export default MovieCard;
+
+
