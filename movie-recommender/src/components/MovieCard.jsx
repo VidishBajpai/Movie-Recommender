@@ -14,7 +14,7 @@ function MovieCard({ movie }) {
           <div className="movie-overlay">
             <button className="like" onClick={Like}>
               {" "}
-              🤍{" "}
+              ♡{" "}
             </button>
           </div>
           <div className="info">
