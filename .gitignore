@@ -5,3 +5,4 @@ __pycache__/
 datasets/
 node_modules/
 dist/
+.cache/
